@@ -1,0 +1,8 @@
+1.index.html
+	首页初始样式为未登录状态
+2.index copy.html
+	登录页跳转到的首页登录状态
+3.center.html
+	列表左右轮播，overflow:hidden;引发的问题未解决，貌似不能用左右移动
+4.center copy.html
+	列表改为淡入淡出,ok
